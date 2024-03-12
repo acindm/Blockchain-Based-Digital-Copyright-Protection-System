@@ -1,0 +1,6 @@
+1st Run: Run the following command in the terminal (without double quotes)
+"source ./install.sh"
+"python network.py"
+
+Subsequent Runs: Run the following command in the terminal (without double quotes)
+"source ./run.sh"

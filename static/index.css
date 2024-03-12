@@ -1,0 +1,7 @@
+#mainContainer.inactive{
+  margin-top: 7vh;
+}
+
+#mainContainer.active{
+  margin-top: 25vh;
+}
